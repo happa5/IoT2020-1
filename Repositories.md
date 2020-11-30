@@ -13,3 +13,4 @@
 - 土居 splash-ryo/IoT2020(https://github.com/splash-ryo/IoT2020)
 - 春日 hiro9474/IoT2020(https://github.com/hiro9474/IoT2020)
 - 木村 gingetu/IoT2020(https://github.com/gingetu/IoT2020)
+- 磯邉 happa5/IoT2020(https://github.com/happa5/IoT2020)
